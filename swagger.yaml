@@ -1,7 +1,7 @@
 ---
-swagger: "2.0"
+swagger: "3.0"
 info:
-  description: "Тест Тест"
+  description: "Тест тест тест"
   version: "1.0.5"
   title: "Adv.Cake API Test"
 host: "petstore.swagger.io"
